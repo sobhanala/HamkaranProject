@@ -75,7 +75,7 @@ public class MessageQueue
             try
             {
                 var lines = File.ReadAllLines(filePath);
-                if (lines.Length == 0) return "No messages available";
+                if (lines.Length == 0) return null;
 
                 string firstMessage = lines[0];
                 File.WriteAllLines(filePath, lines[1..]);
@@ -87,7 +87,7 @@ public class MessageQueue
                 _logger.LogError("Failed to read from file", ex);
             }
 
-            return "No messages available";
+            return null;
         }
     }
 

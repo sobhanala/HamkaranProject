@@ -23,7 +23,8 @@ public class BrokerService
         if (message != null)
         {
             Console.WriteLine($"Consumed: {message}");
+
         }
-        return message ?? "No messages available";
+        return message ;
     }
 }

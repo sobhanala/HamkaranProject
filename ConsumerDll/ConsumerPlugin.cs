@@ -11,29 +11,25 @@ public class ConsumerPlugin : IConsumer
     {
         try
         {
-            var messageInstance = JsonSerializer.Deserialize<Dictionary<string, object>>(serializedMessage);
-            if (messageInstance != null)
+            var messageInstance = JsonSerializer.Deserialize<JsonElement>(serializedMessage);
+            if (messageInstance.ValueKind == JsonValueKind.Object)
             {
-                await SaveMessageAsync(messageInstance);
+                var logEntry = new StringBuilder();
+                logEntry.Append($"{DateTime.UtcNow} ");
+
+                foreach (var property in messageInstance.EnumerateObject())
+                {
+                    logEntry.Append($"{property.Name}={property.Value} ");
+                }
+
+                logEntry.Append(Environment.NewLine);
+                await File.AppendAllTextAsync(SavePath, logEntry.ToString());
             }
         }
         catch (JsonException ex)
         {
-            throw new Exception("Failed to deserialize message.", ex);
+            Console.WriteLine($"[Error] Failed to deserialize message: {ex.Message}");
+            Console.WriteLine(serializedMessage);
         }
-    }
-
-    private async Task SaveMessageAsync(Dictionary<string, object> messageInstance)
-    {
-        var logEntry = new StringBuilder();
-        logEntry.Append($"{DateTime.UtcNow} ");
-
-        foreach (var kvp in messageInstance)
-        {
-            logEntry.Append($"{kvp.Key}={kvp.Value} ");
-        }
-
-        logEntry.Append(Environment.NewLine);
-        await File.AppendAllTextAsync(SavePath, logEntry.ToString());
     }
 }

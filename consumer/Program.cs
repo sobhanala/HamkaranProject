@@ -5,7 +5,13 @@
 
         ConsumerLoader consumerloader = new ConsumerLoader();
 
-        consumerloader.LoadConsumer("C:\\Users\\Click\\source\\repos\\hamkaran project\\ConsumerDll\\bin\\Debug\\net8.0\\ConsumerDll.dll");
+        string basePath = AppDomain.CurrentDomain.BaseDirectory;
+        string producerDllPath = Path.Combine(basePath, "..", "..", "..", "..", "ConsumerDll", "bin", "Debug", "net8.0", "ConsumerDll.dll");
+        producerDllPath = Path.GetFullPath(producerDllPath);
+
+        Console.WriteLine($"[Main] DLL Path: {producerDllPath}");
+
+        consumerloader.LoadConsumer(producerDllPath);
 
 
         consumerloader.Start();

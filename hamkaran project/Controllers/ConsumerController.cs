@@ -18,6 +18,11 @@ public class ConsumerController : ControllerBase
     public IActionResult Consume()
     {
         var message = _broker.Consume();
+        if (message == null)
+        {
+            return BadRequest();
+        }
+        
         return Ok(message);
     }
 }

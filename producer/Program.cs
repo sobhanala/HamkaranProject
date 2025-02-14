@@ -6,7 +6,13 @@ class Program
 
         ProducerLoader producerLoader = new ProducerLoader();
 
-        producerLoader.LoadProducer("C:\\Users\\Click\\source\\repos\\hamkaran project\\ProdducerDll\\bin\\Debug\\net8.0\\ProducerDll.dll");
+        string basePath = AppDomain.CurrentDomain.BaseDirectory;
+        string producerDllPath = Path.Combine(basePath, "..", "..", "..", "..","ProdducerDll", "bin", "Debug", "net8.0", "ProducerDll.dll");
+        producerDllPath = Path.GetFullPath(producerDllPath);
+
+        Console.WriteLine($"[Main] DLL Path: {producerDllPath}");
+
+        producerLoader.LoadProducer(producerDllPath);
 
 
         producerLoader.Start();
