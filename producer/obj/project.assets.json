@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "IProduce/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IProduce.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IProduce.dll": {}
+        }
+      },
+      "loggerlib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/loggerlib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/loggerlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IProduce/1.0.0": {
+      "type": "project",
+      "path": "../IProduce/IProduce.csproj",
+      "msbuildProject": "../IProduce/IProduce.csproj"
+    },
+    "loggerlib/1.0.0": {
+      "type": "project",
+      "path": "../Logger/loggerlib.csproj",
+      "msbuildProject": "../Logger/loggerlib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "IProduce >= 1.0.0",
+      "loggerlib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Click\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\producer.csproj",
+      "projectName": "producer",
+      "projectPath": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\producer.csproj",
+      "packagesPath": "C:\\Users\\Click\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Click\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Click\\source\\repos\\hamkaran project\\IProduce\\IProduce.csproj": {
+              "projectPath": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IProduce\\IProduce.csproj"
+            },
+            "C:\\Users\\Click\\source\\repos\\hamkaran project\\Logger\\loggerlib.csproj": {
+              "projectPath": "C:\\Users\\Click\\source\\repos\\hamkaran project\\Logger\\loggerlib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

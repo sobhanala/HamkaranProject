@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Click\\source\\repos\\hamkaran project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0636C6E-FC97-46F8-A523-09C42B118F99}|Solution Items{F0636C6E-FC97-46F8-A523-09C42B118F99}|C:\\Users\\Click\\source\\repos\\hamkaran project\\TextFile1.bat||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0636C6E-FC97-46F8-A523-09C42B118F99}|Solution Items{F0636C6E-FC97-46F8-A523-09C42B118F99}|solutionrelative:TextFile1.bat||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F59F4A0-3F1A-4B92-963C-71690F53E129}|consumer\\consumer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F59F4A0-3F1A-4B92-963C-71690F53E129}|consumer\\consumer.csproj|solutionrelative:consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9F8AC-F408-4426-B16B-A00307375A37}|producer\\producer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9F8AC-F408-4426-B16B-A00307375A37}|producer\\producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\hamkaran project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|solutionrelative:hamkaran project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F59F4A0-3F1A-4B92-963C-71690F53E129}|consumer\\consumer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\consumer\\consumerloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F59F4A0-3F1A-4B92-963C-71690F53E129}|consumer\\consumer.csproj|solutionrelative:consumer\\consumerloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F59F4A0-3F1A-4B92-963C-71690F53E129}|consumer\\consumer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F59F4A0-3F1A-4B92-963C-71690F53E129}|consumer\\consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDA1C19-30C2-40CA-8D8A-07AE812787E8}|ConsumerDll\\ConsumerDll.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\consumerdll\\consumerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDA1C19-30C2-40CA-8D8A-07AE812787E8}|ConsumerDll\\ConsumerDll.csproj|solutionrelative:consumerdll\\consumerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDA1C19-30C2-40CA-8D8A-07AE812787E8}|ConsumerDll\\ConsumerDll.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\consumerdll\\consumerdll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBDA1C19-30C2-40CA-8D8A-07AE812787E8}|ConsumerDll\\ConsumerDll.csproj|solutionrelative:consumerdll\\consumerdll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F43DB2-70D3-45C5-AC24-59A287BD2BCD}|ProdducerDll\\ProducerDll.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\prodducerdll\\producerdll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73F43DB2-70D3-45C5-AC24-59A287BD2BCD}|ProdducerDll\\ProducerDll.csproj|solutionrelative:prodducerdll\\producerdll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9F8AC-F408-4426-B16B-A00307375A37}|producer\\producer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\producer\\producerloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C9F8AC-F408-4426-B16B-A00307375A37}|producer\\producer.csproj|solutionrelative:producer\\producerloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\hamkaran project\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|solutionrelative:hamkaran project\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\hamkaran project\\services\\brokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|solutionrelative:hamkaran project\\services\\brokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\hamkaran project\\services\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|solutionrelative:hamkaran project\\services\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\hamkaran project\\hamkaran project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|solutionrelative:hamkaran project\\hamkaran project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C9F8AC-F408-4426-B16B-A00307375A37}|producer\\producer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95C9F8AC-F408-4426-B16B-A00307375A37}|producer\\producer.csproj|solutionrelative:producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F43DB2-70D3-45C5-AC24-59A287BD2BCD}|ProdducerDll\\ProducerDll.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\prodducerdll\\producerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F43DB2-70D3-45C5-AC24-59A287BD2BCD}|ProdducerDll\\ProducerDll.csproj|solutionrelative:prodducerdll\\producerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B96361-50B8-44CA-9EE2-DD0F17919ED8}|IProduce\\IProduce.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\iproduce\\iproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B96361-50B8-44CA-9EE2-DD0F17919ED8}|IProduce\\IProduce.csproj|solutionrelative:iproduce\\iproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B96361-50B8-44CA-9EE2-DD0F17919ED8}|IProduce\\IProduce.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\iproduce\\producersettingsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B96361-50B8-44CA-9EE2-DD0F17919ED8}|IProduce\\IProduce.csproj|solutionrelative:iproduce\\producersettingsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\hamkaran project\\controllers\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52D450A-12A1-4892-B0A2-3708B48386EB}|hamkaran project\\hamkaran project.csproj|solutionrelative:hamkaran project\\controllers\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A27A0A-3D12-417A-B305-C2A16D729BC0}|IConsumer\\IConsumer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\iconsumer\\iconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A27A0A-3D12-417A-B305-C2A16D729BC0}|IConsumer\\IConsumer.csproj|solutionrelative:iconsumer\\iconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A27A0A-3D12-417A-B305-C2A16D729BC0}|IConsumer\\IConsumer.csproj|c:\\users\\click\\source\\repos\\hamkaran project\\iconsumer\\iconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99A27A0A-3D12-417A-B305-C2A16D729BC0}|IConsumer\\IConsumer.csproj|solutionrelative:iconsumer\\iconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile1.bat",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\TextFile1.bat",
+              "RelativeDocumentMoniker": "TextFile1.bat",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\TextFile1.bat",
+              "RelativeToolTip": "TextFile1.bat",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-02-14T15:36:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsumerLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\consumer\\ConsumerLoader.cs",
+              "RelativeDocumentMoniker": "consumer\\ConsumerLoader.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\consumer\\ConsumerLoader.cs",
+              "RelativeToolTip": "consumer\\ConsumerLoader.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:44:17.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsumerDll.csproj",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ConsumerDll\\ConsumerDll.csproj",
+              "RelativeDocumentMoniker": "ConsumerDll\\ConsumerDll.csproj",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ConsumerDll\\ConsumerDll.csproj",
+              "RelativeToolTip": "ConsumerDll\\ConsumerDll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T10:58:31.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsumerPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ConsumerDll\\ConsumerPlugin.cs",
+              "RelativeDocumentMoniker": "ConsumerDll\\ConsumerPlugin.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ConsumerDll\\ConsumerPlugin.cs",
+              "RelativeToolTip": "ConsumerDll\\ConsumerPlugin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:45:41.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\consumer\\Program.cs",
+              "RelativeDocumentMoniker": "consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\consumer\\Program.cs",
+              "RelativeToolTip": "consumer\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:58:57.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Program.cs",
+              "RelativeDocumentMoniker": "hamkaran project\\Program.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Program.cs",
+              "RelativeToolTip": "hamkaran project\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:43:45.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\Program.cs",
+              "RelativeDocumentMoniker": "producer\\Program.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\Program.cs",
+              "RelativeToolTip": "producer\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:40:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "consumer",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\consumer\\consumer.csproj",
+              "RelativeDocumentMoniker": "consumer\\consumer.csproj",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\consumer\\consumer.csproj",
+              "RelativeToolTip": "consumer\\consumer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T13:26:48.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProducerController.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Controllers\\ProducerController.cs",
+              "RelativeDocumentMoniker": "hamkaran project\\Controllers\\ProducerController.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Controllers\\ProducerController.cs",
+              "RelativeToolTip": "hamkaran project\\Controllers\\ProducerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:01:35.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProducerDll.csproj",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ProdducerDll\\ProducerDll.csproj",
+              "RelativeDocumentMoniker": "ProdducerDll\\ProducerDll.csproj",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ProdducerDll\\ProducerDll.csproj",
+              "RelativeToolTip": "ProdducerDll\\ProducerDll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T10:35:57.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrokerService.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Services\\BrokerService.cs",
+              "RelativeDocumentMoniker": "hamkaran project\\Services\\BrokerService.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Services\\BrokerService.cs",
+              "RelativeToolTip": "hamkaran project\\Services\\BrokerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:02:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProducerLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\ProducerLoader.cs",
+              "RelativeDocumentMoniker": "producer\\ProducerLoader.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\ProducerLoader.cs",
+              "RelativeToolTip": "producer\\ProducerLoader.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAvwI0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:45:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MessageQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Services\\MessageQueue.cs",
+              "RelativeDocumentMoniker": "hamkaran project\\Services\\MessageQueue.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Services\\MessageQueue.cs",
+              "RelativeToolTip": "hamkaran project\\Services\\MessageQueue.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:35:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "producer.csproj",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\producer.csproj",
+              "RelativeDocumentMoniker": "producer\\producer.csproj",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\producer\\producer.csproj",
+              "RelativeToolTip": "producer\\producer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T10:57:58.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "hamkaran project.csproj",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\hamkaran project.csproj",
+              "RelativeDocumentMoniker": "hamkaran project\\hamkaran project.csproj",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\hamkaran project.csproj",
+              "RelativeToolTip": "hamkaran project\\hamkaran project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T10:37:39.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProducerPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ProdducerDll\\ProducerPlugin.cs",
+              "RelativeDocumentMoniker": "ProdducerDll\\ProducerPlugin.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\ProdducerDll\\ProducerPlugin.cs",
+              "RelativeToolTip": "ProdducerDll\\ProducerPlugin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:44:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IProduce\\IProducer.cs",
+              "RelativeDocumentMoniker": "IProduce\\IProducer.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IProduce\\IProducer.cs",
+              "RelativeToolTip": "IProduce\\IProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:58:00.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProducerSettingsAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IProduce\\ProducerSettingsAttribute.cs",
+              "RelativeDocumentMoniker": "IProduce\\ProducerSettingsAttribute.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IProduce\\ProducerSettingsAttribute.cs",
+              "RelativeToolTip": "IProduce\\ProducerSettingsAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:54:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsumerController.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Controllers\\ConsumerController.cs",
+              "RelativeDocumentMoniker": "hamkaran project\\Controllers\\ConsumerController.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\hamkaran project\\Controllers\\ConsumerController.cs",
+              "RelativeToolTip": "hamkaran project\\Controllers\\ConsumerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:43:58.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IConsumer\\IConsumer.cs",
+              "RelativeDocumentMoniker": "IConsumer\\IConsumer.cs",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IConsumer\\IConsumer.cs",
+              "RelativeToolTip": "IConsumer\\IConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:44:25.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IConsumer.csproj",
+              "DocumentMoniker": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IConsumer\\IConsumer.csproj",
+              "RelativeDocumentMoniker": "IConsumer\\IConsumer.csproj",
+              "ToolTip": "C:\\Users\\Click\\source\\repos\\hamkaran project\\IConsumer\\IConsumer.csproj",
+              "RelativeToolTip": "IConsumer\\IConsumer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T10:39:42.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

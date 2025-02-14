@@ -1,0 +1,34 @@
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.csproj.AssemblyReference.cache
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.AssemblyInfoInputs.cache
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.AssemblyInfo.cs
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.csproj.CoreCompileInputs.cache
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\appsettings.json
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\hamkaran project.exe
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\hamkaran project.deps.json
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\hamkaran project.runtimeconfig.json
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\hamkaran project.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\hamkaran project.pdb
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\loggerlib.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\bin\Debug\net8.0\loggerlib.pdb
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\staticwebassets\msbuild.hamkaran project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\staticwebassets\msbuild.build.hamkaran project.props
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hamkaran project.props
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hamkaran project.props
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\scopedcss\bundle\hamkaran project.styles.css
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran.CB73A5AA.Up2Date
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\refint\hamkaran project.dll
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.pdb
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\hamkaran project.genruntimeconfig.cache
+C:\Users\Click\source\repos\hamkaran project\hamkaran project\obj\Debug\net8.0\ref\hamkaran project.dll

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MessageBrokerAPI.Controllers.ConsumerController",
+    "Method": "Consume",
+    "RelativePath": "api/consume",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MessageBrokerAPI.Controllers.ProducerController",
+    "Method": "Produce",
+    "RelativePath": "api/produce",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

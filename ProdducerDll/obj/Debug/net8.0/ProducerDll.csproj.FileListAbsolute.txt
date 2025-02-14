@@ -1,0 +1,17 @@
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\bin\Debug\net8.0\ProducerDll.deps.json
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\bin\Debug\net8.0\ProducerDll.dll
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\bin\Debug\net8.0\ProducerDll.pdb
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\bin\Debug\net8.0\IProduce.dll
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\bin\Debug\net8.0\loggerlib.dll
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\bin\Debug\net8.0\loggerlib.pdb
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\bin\Debug\net8.0\IProduce.pdb
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ProducerDll.csproj.AssemblyReference.cache
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ProducerDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ProducerDll.AssemblyInfoInputs.cache
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ProducerDll.AssemblyInfo.cs
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ProducerDll.csproj.CoreCompileInputs.cache
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\Producer.DE7DAFB5.Up2Date
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ProducerDll.dll
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\refint\ProducerDll.dll
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ProducerDll.pdb
+C:\Users\Click\source\repos\hamkaran project\ClassLibrary2\obj\Debug\net8.0\ref\ProducerDll.dll
