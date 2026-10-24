@@ -1,4 +1,4 @@
-# Producerâ€“Consumer System
+# Producer–Consumer System
 
 A C#/.NET 8 message-processing example with an ASP.NET Core broker API and separate producer and consumer console applications. Plugins are loaded from DLLs through shared interfaces.
 
